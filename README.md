@@ -60,7 +60,7 @@ The project includes a `musiclib.py` with the following songs:
 | `play ayudha pooja` | Ayudha Pooja |
 | `play chikri chikri` | Chikri Chikri |
 | `play desi kalakaar` | Desi Kalakaar |
-| `play funk` | Funk (Spotify) |
+| `play phonk` | Phonk (Spotify) |
 
 > To add more songs, edit `musiclib.py` and add entries to the `music` dictionary.
 

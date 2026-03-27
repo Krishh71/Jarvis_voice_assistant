@@ -31,8 +31,17 @@ A wake-word-activated voice assistant built in Python. Say **"Jarvis"** to activ
 
 ##  Installation
 
+## 📦 Installation
+
 **Requirements:** Python 3.8+, Windows, working microphone
 
+1. **Clone the repository:**
+```bash
+git clone <repository_link>
+cd <repository_folder>
+```
+
+2. **Install dependencies:**
 ```bash
 pip install speechrecognition pyttsx3 wikipedia pyaudio
 ```

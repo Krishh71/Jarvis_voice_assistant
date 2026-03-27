@@ -1,4 +1,4 @@
-#  Jarvis - Voice Assistant
+# Jarvis - Voice Assistant
 
 A wake-word-activated voice assistant built in Python. Say **"Jarvis"** to activate it, then give commands to open websites, search Wikipedia, launch apps, and control your system.
 

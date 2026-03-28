@@ -9,7 +9,7 @@ import wikipedia
 recognizer = spr.Recognizer()
 engine = pyttsx3.init('sapi5')
 
-# Voice Setup
+
 voices = engine.getProperty('voices')
 for v in voices:
     if "female" in v.name.lower() or "zira" in v.name.lower():

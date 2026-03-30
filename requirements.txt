@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyaudio
+#if pyaudio fails do 
+pip install pipwin
+pipwin install pyaudio
